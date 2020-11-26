@@ -1,0 +1,32 @@
+Remover o nó de valor 8 e adicionar um nó de valor 9
+
+        8
+    5       10
+  3   6   9    12 
+ 2 4   7      11
+1
+
+Remover (8):
+
+        9       
+    5     10 
+  3   6      12
+ 2 4   7    11
+1
+
+Rebalancear LL(9):
+
+     5   
+  3      9
+ 2 4  6    10  
+1      7     12 
+            11
+
+Rebalancear RL(10):
+
+     5
+  3       9
+ 2 4   6     11
+1       7  10  12
+
+Inserir (9): Já existe um nó de valor 9.

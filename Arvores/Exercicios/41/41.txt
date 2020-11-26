@@ -1,0 +1,5 @@
+Lista completa de chaves: 67 51 87 23 53 82 90 17 31 52 60 16 21
+
+Lista de chaves rubras: 51 87 17 31 52 60 16 21
+
+Lista de chaves rubras em ordem crescente: 16 17 21 31 51 52 60 87

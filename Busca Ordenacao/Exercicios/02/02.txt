@@ -1,0 +1,3 @@
+Dado um vetor qualquer, o menor valor do mesmo, pode estar em qualquer índice. Portanto,
+precisamos percorrê-lo por inteiro para encontrar o menor valor. O que pode ser ineficiente
+quando o vetor contém muitos elementos.

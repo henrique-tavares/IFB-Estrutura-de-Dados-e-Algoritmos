@@ -1,0 +1,3 @@
+Questão 5:
+    Na alocação estática os elementos são pré-alocados, enquanto na alocação dinânica os elementos
+    são alocados em tempo de excução.

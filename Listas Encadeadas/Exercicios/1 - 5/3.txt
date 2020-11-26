@@ -1,0 +1,4 @@
+Questão 3:
+    Na alocação sequencial, os elementos são armazenados sequencialmente.
+    Enquanto na alocação encadeada um elemento guarda o endereço para o próximo
+    elemento, dessa forma eles não precisam ser armazenados sequencialmente.

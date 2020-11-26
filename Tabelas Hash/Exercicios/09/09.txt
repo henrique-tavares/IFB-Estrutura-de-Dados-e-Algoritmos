@@ -1,0 +1,5 @@
+A vantegem de se usar o endereçamento aberto é o menor consumo de memória,
+e busca mais rápida pois os dados são guardados na própria tabela.
+
+A desevantagem de se uasr o endereçamento aberto se deve ao maior processamento na
+hora de se calcular as posições por causa de colisões.

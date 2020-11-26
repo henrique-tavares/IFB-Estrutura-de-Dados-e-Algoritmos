@@ -1,0 +1,3 @@
+Quando comparado com outros métodos, como as sondagens linear e quadrática.
+O método de disperção dupla (hash duplo), consegue dispersar melhor os elementos na tabela,
+e em caso de colisão, reduz o número de colisões consecutivas.

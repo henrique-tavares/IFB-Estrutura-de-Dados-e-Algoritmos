@@ -1,0 +1,4 @@
+As vantagens estão na hora de se utilizar uma AVL, pois ela realiza as operações de
+busca, inserção e remoção em tempo O(log n), onde numa ABB comum seria O(n).
+As desvantagens estão na hira de se desenovolver uma AVL, devido à dificuldade adicional
+de se implementar os algorítimos de rotação, para manter a árvore balanceada.

@@ -1,0 +1,1 @@
+Que ela seja performática, e tentar fazer o possível com que chaves diferentes gerem índices diferentes.

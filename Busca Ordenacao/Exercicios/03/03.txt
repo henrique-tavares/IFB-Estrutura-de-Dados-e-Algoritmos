@@ -1,0 +1,2 @@
+A ordenação de produtos numa loja pelo preço em ordem crescente, ou seja,
+listar os produtos do menor para o maior preço.

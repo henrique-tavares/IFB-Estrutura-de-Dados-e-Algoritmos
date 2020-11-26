@@ -1,0 +1,2 @@
+Sim, pois conhecendo a função hash, calcularíamos a função inversa, e
+encontraríamos a senha original.

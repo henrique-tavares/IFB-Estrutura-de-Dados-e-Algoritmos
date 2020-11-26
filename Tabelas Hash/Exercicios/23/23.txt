@@ -1,0 +1,4 @@
+Não, pois se há mais de um item com o mesmo hash, há tratamento de colisão,
+consequentemente há também uma forma de diferenciar os valores com o mesmo hash.
+Então, mesmo que tenhamos uma senha diferente com o hash, ainda não conseguimos fazer o login
+por causa do tratamento de colisão.

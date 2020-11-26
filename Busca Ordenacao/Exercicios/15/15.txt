@@ -1,0 +1,4 @@
+A busca busca sequencial possui complexidade de: O(1) no melhor caso, O(n) no pior caso e O(n/2) no caso médio.
+Em contrapartida, a busca binária possui complexidade de: O(1) no melhor caso e O(log(n)) no pior caso e no
+caso médio. Logo, a busca binária é muito mais eficiente, porém só é possível usar a busca binária em um
+conjunto de dados ordenados, assim, não faz sentido tentar usar a busca binária num algorítimo de ordenação.

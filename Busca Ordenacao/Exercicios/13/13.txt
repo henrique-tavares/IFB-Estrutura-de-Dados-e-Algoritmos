@@ -1,0 +1,3 @@
+Não, pois a complexidade O(n^(3/2)) ou O(√n * n), é maior quando comparada,
+por exemplo, com a complexidade do merge sort que é O(n log(n)) no caso médio,
+onde √n cresce mais do que log(n).

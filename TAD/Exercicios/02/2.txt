@@ -1,0 +1,1 @@
+A abstração de informações através do TAD permitiu a melhor compreensão dos algoritmos e maior facilidade de programação, e por consequência aumentou a complexidade dos programas, tornando-se fundamental em qualquer projeto de software a modelagem prévia de seus dados. 

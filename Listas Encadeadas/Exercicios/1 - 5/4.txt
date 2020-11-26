@@ -1,0 +1,7 @@
+Questão 4:
+    Vantagens:
+        Facilidade de adição, remoção, alteração de elementos sem desperdiçar memória.
+
+    Desvantagens:
+        Como os elementos não estão em sequencia na méroria, não é possível o acesso aleatório,
+        como na alocação sequencial, por isso devemos percorrer a lista em busca de elementos.

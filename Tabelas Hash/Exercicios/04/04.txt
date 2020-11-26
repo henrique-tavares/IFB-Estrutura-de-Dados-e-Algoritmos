@@ -1,0 +1,3 @@
+Hashing universal é uma estratégia que busca minimizar o problema de colisões,
+para isso escolhemos uma função de hashing em runtime aleatoriamente.
+Para isso é preciso definir previamente uma família de funções de hashing.

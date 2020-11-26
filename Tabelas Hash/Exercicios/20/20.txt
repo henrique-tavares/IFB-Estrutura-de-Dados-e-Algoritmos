@@ -1,0 +1,8 @@
+a)
+    1 - Criar uma tabela de tamanho n;
+    2 - Inserir na tabela o todos os inteiros de um conjunto T de tamanho n como chave e valor;
+    3 - Tentar inserir na tabela todos os inteiros de um conjunto S de tamanho m, onde m <= n, como chave e valor;
+    4 - Caso haja m colisões, então todos os elementos de S estão contidos em T, logo S é subconjunto de T;
+
+b)
+    O(n + m) ou O(2n), caso m == n;

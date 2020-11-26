@@ -1,0 +1,7 @@
+menor(Nó *nó) -> int {
+    se nó.esquerda == null {
+        retornar nó.valor
+    } senão {
+        retornar menor(nó.esquerda)
+    }
+}

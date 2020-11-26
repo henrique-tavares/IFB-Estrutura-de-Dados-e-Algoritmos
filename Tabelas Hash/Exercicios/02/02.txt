@@ -1,0 +1,1 @@
+Quando o número de tentativas de acesso alcança o tamanho da tabela hash.

@@ -1,0 +1,1 @@
+Em computação, o tipo abstrato de dado (TAD) é uma especificação de um conjunto de dados e operações que podem ser executadas sobre esses dados.

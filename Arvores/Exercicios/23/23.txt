@@ -1,0 +1,3 @@
+Quando uma Arvore binária está completa, podemos calcular o número de nós, usando a altura.
+
+n = 2^(h+1), onde n = número de nós e h = altura.

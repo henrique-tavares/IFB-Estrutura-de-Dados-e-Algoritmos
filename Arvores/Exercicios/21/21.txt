@@ -1,0 +1,4 @@
+Diferetemente de uma ABB, ou Árvore Binária de Busca, uma AVL é uma Árvore Binária de Busca Balanceada.
+Uma AVL distribui os seus nós da melhor forma possível, para que sua altura seja a menor possível.
+Isso implica que ao contrario de uma ABB, em que as operações de busca, inserção e remoção possuem
+complexidade O(n) no pior caso, numa AVL essas mesmas operações possuem complexidade O(log n) no pior caso.

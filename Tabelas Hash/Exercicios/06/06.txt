@@ -1,0 +1,12 @@
+Há dois métodos muito comuns:
+
+    Endereçamento aberto:
+        Em caso de colisão, percorrer a tabela hash em busca de uma posição que esteja vazia,
+        há diversas estretégias de se percorrer a tabela hash, dentre elas temos a sondagem linear,
+        que percorre a tabela linearmente, a sondagem quadrática, que percorre a tabela usando uma equação
+        quadrática, e a duplo hash, que utiliza duas funções de hashing.
+    
+    Endereçamento Separado:
+        Ao invés de procurar por posições vazias no array, guardamos uma lista encadeada em cada posição do array.
+        Então sempre que calcularmos o índice a partir da chave, o valor será guardado na lista endadeada correspondente,
+        assim quando aconteceria uma colisão, apenas seria adicionado um item na lista encadeada.

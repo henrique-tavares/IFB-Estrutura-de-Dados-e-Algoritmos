@@ -1,0 +1,2 @@
+Colisão é quando duas chaves distintas quando passadas pela mesma função de hashing
+resultam no mesmo valor que é utilizado como índice do array interno da tabela hash.

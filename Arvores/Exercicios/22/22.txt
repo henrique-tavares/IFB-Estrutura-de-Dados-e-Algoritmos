@@ -1,0 +1,1 @@
+Não difere em nada, os algorítimos de busca numa ABB e numa AVL são iguais.

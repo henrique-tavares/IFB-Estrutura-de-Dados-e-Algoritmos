@@ -1,0 +1,3 @@
+Dada uma sequência de operações dos tipos inserção e eliminação,
+ela será válida se possuir quantidades iguais de inserções e eliminações,
+e se a pilha não estiver vazia no momento de uma eliminação.

@@ -1,0 +1,15 @@
+Arvore exemplo:          7
+                      6     10
+                                15
+                              13  20
+
+Remoção (13) ->           7
+                       6     10
+                               15
+                                 20
+
+Rebalancear: Rotação RR (7)
+
+                        10
+                      7    15
+                    6         20 

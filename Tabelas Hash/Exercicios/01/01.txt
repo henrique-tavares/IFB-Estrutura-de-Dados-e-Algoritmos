@@ -1,0 +1,5 @@
+Se considerarmos os dias do ano como posições do array de uma tabela hash,
+e o dia do ano qm que uma pessoa nasceu como chave a ser inserida na tabela hash.
+Então conforme formos adicionando pessoa com suas chaves, as chances vão aumentando de
+duas ou mais chaves após passar pela função de hash equivalerem ao mesmo índice.
+Acontecendo assim, uma colisão na tabela hash.

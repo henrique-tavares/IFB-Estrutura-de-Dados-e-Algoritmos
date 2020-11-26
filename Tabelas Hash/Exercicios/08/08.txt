@@ -1,0 +1,6 @@
+Começamos eliminando o sinal negativo da chave se houver. Daí calculamos o resto da divisão
+entre o valor encontrado acima e o tamanho da tabela hash. Dessa forma garantimos que o índice
+encontrado esteja sempre no intervalo [0, tamanho).
+
+Com esse método colisões podem ser frequentes.
+Ex: 11 % 10 == 1, 21 % 10 == 1

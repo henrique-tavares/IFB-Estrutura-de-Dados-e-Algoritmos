@@ -1,0 +1,5 @@
+a) n colisões
+
+b) n/2 colisões
+
+c) n/5 colisões

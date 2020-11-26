@@ -1,0 +1,4 @@
+Uma tabela hash é uma estrutura de dados que utiliza uma estratégia de chave e valor
+para armazenar os itens. Os itens são guadardos internamente em um array, e a chave após
+passar por uma função de hashing obtemos o índice do valor associado a chave geradora
+no array da tabela hash.

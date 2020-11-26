@@ -1,0 +1,39 @@
+Bubble sort:
+    estável,
+    O(n) melhor caso,
+    O(n²) caso médio,
+    O(n²) pior caso,
+
+Selection sort:
+    estável,
+    O(n²) todos os casos,
+    geralmente é melhor do que o bubble sort,
+
+Insetion sort:
+    estável,
+    O(n) melhor caso,
+    O(n²) caso médio,
+    O(n²) pior caso,
+    na prática é bastante rápido para pequenos conjuntos de dados,
+
+Merge sort:
+    estável,
+    O(n log(n)) todos os casos,
+    faz menos comparações do que o quick sort,
+
+Quick sort:
+    não-estável,
+    O(n log(n)) melhor caso e caso médio,
+    O(n²) pior caso,
+    apesar do pior caso, costuma ser uma boa opção para grandes conjuntos de dados,
+
+Counting sort:
+    estável,
+    O(n+k), onde k é o tamanho do array auxiliar, esse tamanho é igual ao maior valor a ser ordenado (todos os casos),
+    não recomendável quando o k é muito grande,
+
+Bucket sort:
+    estável (exceto quando usar um algorítimo auxiliar não-estável),
+    O(n+k) melhor caso e caso médio, onde k é o número de baldes,
+    O(n²) pior caso,
+    não recomendado para grandes conjuntos de dados

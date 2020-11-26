@@ -1,0 +1,6 @@
+Inserir : M, F, S, D, J, P, U, A, E, H, Q, T, W, K.
+
+                       M
+                   F       S
+                 D   J   P   U
+                A E H K   Q T W

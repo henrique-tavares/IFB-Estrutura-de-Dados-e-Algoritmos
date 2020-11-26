@@ -1,0 +1,1 @@
+Fila, também chamado de FIFO (acrônimo do inglês First In, First Out , primeiro a entrar, primeiro a sair) é o nome dado a estrutura de dados em que ocorrem inserção de dados em um extremo e sua saída por outro, obedecendo assim "a ordem de chegada" como se fosse uma fila comum de pessoas.

@@ -1,0 +1,7 @@
+Usa-se pilha em aplicações em que os dados são obtidos na ordem inversa àquela em que foram fornecidos.
+
+Exemplos:
+	Calculadora para expressões matemáticas;
+	Conversão de número decimal para binário;
+	Mecanismo de fazer/desfazer (Undo e Redo);
+	Mecanismo de navegação de páginas na Internet (avançar e retornar).

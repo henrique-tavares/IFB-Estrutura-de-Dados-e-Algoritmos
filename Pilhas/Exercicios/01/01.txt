@@ -1,0 +1,1 @@
+Em ciência da computação, uma pilha é um tipo abstrato de dado e estrutura de dados baseado no princípio de Last In First Out (LIFO), ou seja "o último que entra é o primeiro que sai" caracterizando um empilhamento de dados.

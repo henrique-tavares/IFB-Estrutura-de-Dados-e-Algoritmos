@@ -1,0 +1,2 @@
+Árvore é uma estrutura de dados que herda as características das topologias em árvore. Diferentemente das listas encadeadas, em que os dados se encontram numa sequência, nas árvores os dados estão dispostos de forma hierárquica.
+Uma árvore é composta por um elemento principal chamado raiz, que possui ligações para outros elementos, que são denominados de galhos ou filhos. Estes galhos levam a outros elementos que também possuem outros galhos. O elemento que não possui galhos é conhecido como folha ou nó terminal.

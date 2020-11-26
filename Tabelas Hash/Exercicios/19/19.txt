@@ -1,0 +1,7 @@
+Endereçamento Separado:
+    Caso haja apenas um elemento na lista associada ao hash correspodente remova-o, senão,
+    percorrer a lista em busca do valor associado a chave e então removê-lo da lista.
+
+Endereçamento Aberto:
+    Se o valor encontrado pelo hash associado é o valor associado a chave removê-lo e atribuir a NULL, senão,
+    Usar alguma estratégia para percoreer a tabela, e então remover o valor se encontrado.

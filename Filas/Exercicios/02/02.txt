@@ -1,0 +1,5 @@
+Exemplos:
+	Alocação de recursos para impressão de documentos em uma impressora.
+	Atentidimento de processos requisitados ao sistema operacional.
+	Ordenação do encaminhamento dos pacotes em um roteador.
+	Buffer para gravação de dados em mídia.
